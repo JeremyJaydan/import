@@ -1,5 +1,5 @@
 # import
-experimental module vendering tool 
+experimental module vendoring tool 
 
 # Installation
 - [have deno installed](https://deno.land/#installation)
