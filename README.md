@@ -5,7 +5,7 @@ experimental module vendering tool
 - [have deno installed](https://deno.land/#installation)
 - install with deno
 ```
-deno install --unstable --allow-read --allow-net --allow-write https://import.jeremyjaydan.dev/cli.js
+deno install -n import --unstable --allow-read --allow-net --allow-write https://import.jeremyjaydan.dev/cli.js
 ```
 
 # Usage
